@@ -1,16 +1,21 @@
-# auth
+🔐 Flutter Login with SharedPreferences
+A simple yet functional Flutter app that implements a persistent login system using SharedPreferences 🚀.
 
-A new Flutter project.
+📝 Features
+🧾 Login form with username and password fields.
 
-## Getting Started
+✅ Credential validation using a local map of predefined users.
 
-This project is a starting point for a Flutter application.
+💾 Session persistence with SharedPreferences (stay logged in even after closing the app!).
 
-A few resources to get you started if this is your first Flutter project:
+🙋‍♂️ Welcome screen that appears once the user is authenticated.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔓 Logout functionality that clears saved session data.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎯 Objective
+Build a local authentication system in Flutter with session persistence — ideal for learning or prototyping.
+
+🧰 Technologies
+Flutter 🐦
+
+Dart 🎯
